@@ -3,7 +3,7 @@ pkgver=1.0
 pkgrel=1.1
 pkgdesc="RebornOS config used in lightdm-gtk-greeter"
 arch=('any')
-url="https://gitlab.com/rebornos-team/rebornos-special-system-files/rebornos-lightdm-gtk-greeter-config"
+url="https://github.com/RebornOS-Developers/rebornos-lightdm-gtk-greeter-config"
 license=('GPL3')
 source=('lightdm.conf' 
         'lightdm-gtk-greeter.conf')
